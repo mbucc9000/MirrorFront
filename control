@@ -1,0 +1,9 @@
+Package: com.mbucc9000.mirrorfront
+Name: MirrorFront
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Saves front-camera photos and videos mirrored, exactly as the preview shows them. Works in Camera and in the lock screen camera.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate
