@@ -8,6 +8,7 @@ Saves iOS 6 front-camera photos and videos mirrored, exactly as the preview show
 
 - Front-camera photos and videos are saved mirrored, exactly like the preview.
 - Works in Camera and in the lock screen camera.
+- Photos stay mirrored when you text or share them.
 
 ## How to use
 
